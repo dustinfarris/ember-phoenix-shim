@@ -1,6 +1,6 @@
 {
   "name": "ember-phoenix-shim",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Use phoenix in your Ember project",
   "keywords": [
     "ember-addon"
