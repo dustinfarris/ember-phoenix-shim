@@ -4,7 +4,6 @@
 const merge = require('broccoli-merge-trees');
 const path = require('path');
 const Webpack = require('broccoli-webpack');
-const Funnel = require('broccoli-funnel');
 
 
 module.exports = {
