@@ -44,7 +44,7 @@
     "ember-load-initializers": "^0.6.3",
     "ember-resolver": "^2.0.3",
     "ember-welcome-page": "^2.0.3",
-    "loader.js": "^4.0.10",
+    "loader.js": "^4.3.0",
     "phoenix": "^1.2.1"
   },
   "engines": {
